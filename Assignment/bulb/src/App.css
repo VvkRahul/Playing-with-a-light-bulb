@@ -1,0 +1,30 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+  width: 80%;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.on {
+  color: green;
+}
+
+.off {
+  color: red;
+}
+
+.last-updated {
+  font-size: 0.9rem;
+  margin-bottom: 10px;
+  color: #666;
+}
